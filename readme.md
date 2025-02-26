@@ -7,7 +7,8 @@ It supports basic arithmetic operations, saturation arithmetic, and a set of pre
 # Purpose
 
 The motivation behind this project was to advance my understanding of OOP and stack data structures. This project was submitted
-as part of the required coursework for the "Principles of Programming" module at the University of Bath.
+as part of the required coursework for the "Principles of Programming" module at the University of Bath. Noting
+that the files uploaded hereto are exclusively works of my own, and are not redistributions of coursework material.
 
 ## Features
 
